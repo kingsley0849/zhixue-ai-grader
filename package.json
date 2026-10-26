@@ -1,0 +1,1 @@
+{"name":"zhixue-ai-grader","version":"0.7.11","private":true,"scripts":{"build":"node scripts/build.cjs","test":"node --test tests/*.test.cjs","check":"node scripts/check-release.cjs"}}

@@ -1,0 +1,11 @@
+node_modules/
+*-apikey.user.js
+*api-key*.txt
+.env*
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+private/
+artifacts/
